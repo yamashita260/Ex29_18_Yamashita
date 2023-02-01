@@ -37,7 +37,6 @@ namespace Ex29_18_Yamamasita
                 if(float.TryParse(Console.ReadLine(), out input) )
                 {
                     return input;
-                    Console.WriteLine("エラー");
                 }
             }
         }
